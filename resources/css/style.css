@@ -2,8 +2,10 @@
     font-family: Verdana, sans-serif;
     text-align: center;
     background-color: black;
-    display: inline-block;
+    display: block;
     overflow: scroll;
+    width: 100%;
+    height: auto;
 }
 
 
