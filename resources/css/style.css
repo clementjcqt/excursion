@@ -6,13 +6,12 @@
     overflow: scroll;
     width: 100%;
     height: auto;
+    color: white;
 }
 
 
 header {
     font-size: 50px;
-    color: white;
-
 }
 
 a {
