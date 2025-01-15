@@ -19,6 +19,11 @@ a {
     text-decoration: none;
 }
 
+
+video {
+    position: relative;
+}
+
 h2 {
     font-size: 42px;
     font-weight: 300;
