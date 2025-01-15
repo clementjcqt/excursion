@@ -2,6 +2,7 @@
     font-family: Verdana, sans-serif;
     text-align: center;
     background-color: black;
+    display: inline-block;
 }
 
 
@@ -9,4 +10,19 @@ header {
     font-size: 50px;
     color: white;
 
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
 }
